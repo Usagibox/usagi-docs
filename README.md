@@ -10,11 +10,11 @@ description: description of doc 1
 
 {% tabs %}
 {% tab title="First Tab" %}
-
+tab C 1
 {% endtab %}
 
 {% tab title="Second Tab" %}
-
+tab C 2
 {% endtab %}
 {% endtabs %}
 
