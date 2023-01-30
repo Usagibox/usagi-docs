@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Test Doc 1](README.md)
-* [Test Doc 2](test-doc-2.md)
+* [New Doc 2 test](new-doc-2-test.md)
 
 ## Group 1
 
